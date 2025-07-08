@@ -34,3 +34,5 @@ Regular updates to stay undetected
 Perfect for grinding, trolling, or customizing your GTA world.
 
 ⚠️ Disclaimer: This client is for educational and private use only. Misuse may result in bans. Use at your own risk.
+
+⚠️IT wont work sometimes check twice and make sure your firewall is off and make sure you ran it as admin if still dosent work just wait couple of minutes(about 10-20)
